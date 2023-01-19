@@ -1,0 +1,3 @@
+﻿using Jokenpo;
+
+Game.Run();

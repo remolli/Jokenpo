@@ -1,0 +1,15 @@
+C:\Users\Win10\Desktop\estudando\C#\Jokenpo\bin\Debug\net7.0\Jokenpo.exe
+C:\Users\Win10\Desktop\estudando\C#\Jokenpo\bin\Debug\net7.0\Jokenpo.deps.json
+C:\Users\Win10\Desktop\estudando\C#\Jokenpo\bin\Debug\net7.0\Jokenpo.runtimeconfig.json
+C:\Users\Win10\Desktop\estudando\C#\Jokenpo\bin\Debug\net7.0\Jokenpo.dll
+C:\Users\Win10\Desktop\estudando\C#\Jokenpo\bin\Debug\net7.0\Jokenpo.pdb
+C:\Users\Win10\Desktop\estudando\C#\Jokenpo\obj\Debug\net7.0\Jokenpo.csproj.AssemblyReference.cache
+C:\Users\Win10\Desktop\estudando\C#\Jokenpo\obj\Debug\net7.0\Jokenpo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Win10\Desktop\estudando\C#\Jokenpo\obj\Debug\net7.0\Jokenpo.AssemblyInfoInputs.cache
+C:\Users\Win10\Desktop\estudando\C#\Jokenpo\obj\Debug\net7.0\Jokenpo.AssemblyInfo.cs
+C:\Users\Win10\Desktop\estudando\C#\Jokenpo\obj\Debug\net7.0\Jokenpo.csproj.CoreCompileInputs.cache
+C:\Users\Win10\Desktop\estudando\C#\Jokenpo\obj\Debug\net7.0\Jokenpo.dll
+C:\Users\Win10\Desktop\estudando\C#\Jokenpo\obj\Debug\net7.0\refint\Jokenpo.dll
+C:\Users\Win10\Desktop\estudando\C#\Jokenpo\obj\Debug\net7.0\Jokenpo.pdb
+C:\Users\Win10\Desktop\estudando\C#\Jokenpo\obj\Debug\net7.0\Jokenpo.genruntimeconfig.cache
+C:\Users\Win10\Desktop\estudando\C#\Jokenpo\obj\Debug\net7.0\ref\Jokenpo.dll
